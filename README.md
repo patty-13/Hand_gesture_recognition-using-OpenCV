@@ -1,4 +1,4 @@
-# image_Recognition
+# Hand gestutre image Recognition
 
 This project consist of feed forward neural network that is trained on Handgesture dataset taken from kaggle.com.
 ## How it works
