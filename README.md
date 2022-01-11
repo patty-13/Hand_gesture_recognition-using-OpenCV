@@ -6,4 +6,5 @@ This project consist of feed forward neural network that is trained on Handgestu
 2.The hands gestures are captured using webcam.<br>
 3.The hand photo is then captured clicking the key (can be set by user).<br>
 4.The captured image is then resized and send to the neural network for identification and then result is displayed on the screen<br>
-![hand gst](https://user-images.githubusercontent.com/56751154/148722518-c43aea90-83f4-4db9-b952-8e3de841730f.png)
+
+![HAND GESTURE RECOG](https://user-images.githubusercontent.com/56751154/148995902-48ff53b8-e99f-4509-9c30-bc697d9104e8.jpg)
